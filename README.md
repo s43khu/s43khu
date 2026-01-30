@@ -47,9 +47,13 @@ I like working close to the metal—understanding how things work, then simplify
 
 ## 🧰 Tech Stack
 
-### Languages & Runtime
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff)
+
+### Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 
 ### Web & Tools
@@ -61,6 +65,14 @@ I like working close to the metal—understanding how things work, then simplify
 ### Learning & Exploring
 ![AI](https://img.shields.io/badge/AI-0ea5e9?style=for-the-badge&logo=openai&logoColor=fff)
 ![Automation](https://img.shields.io/badge/Automation-6366f1?style=for-the-badge)
+
+### DevOps & Deployment (Honorable Mention 😄)
+EC2 deployments, containerization, and just enough Kubernetes to be dangerous.
+
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
 
 ---
 
